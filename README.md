@@ -17,3 +17,8 @@ The purpose of this analysis is to ascertain the feasibility of launching a bike
 -Trips are fairly distributed throughout the weekdays. Customer type does not strongly impact that distribution.
 
 # Summary
+The results presented above provide us with the following main insights:
+1. While male customer make up the bulk of all rides, gender does not play a major role in determining ride duration or when peak hours occur. All genders have similar peak hours as well as displaying similar patters for peak hours per day of the week.
+2. The busiest time for bike trips is the hours of the morning and afternoon commute, as well as the early evening recreational hours. 
+3. Subscribers make up the majority of riders, but share similar trends in ride duration and peak hours.
+Based on these results, we are optimistic that a bike share company in Des Moines could be successful. However, we do believe further analysis should be committed to solidify this recomendation. In particular, we believe two further visualizations should be created that highlight (1) the population density of the areas that saw the highest ridership, and (2) the distance traveled per trip for each gender, customer type, and hour of the day. We believe these visualizations will help us better extrapolate our findings to the city of Des Moines.
